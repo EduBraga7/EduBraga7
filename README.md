@@ -32,9 +32,6 @@ Meu grande objetivo é construir soluções práticas que resolvam problemas rea
   <a href="https://www.linkedin.com/in/ebragaprado" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:braga.eduardo.prado@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Meu_Portfólio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfólio" />
   </a>
