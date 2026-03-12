@@ -23,7 +23,6 @@ Meu grande objetivo é construir soluções práticas que resolvam problemas rea
 ### 🚀 Projetos em Destaque
 
 * 📈 **[Ticker-Tracker](https://github.com/EduBraga7/Ticker-Tracker):** Robô de BI *serverless* em Python que analisa ativos financeiros em tempo real e envia insights estratégicos de Buy & Hold via Telegram usando a IA do Gemini.
-* 🏍️ **Moto Tracker:** Aplicação web desenvolvida com Flask e Firebase para monitoramento de manutenção preventiva e gestão de consumo de combustível.
 
 ---
 
