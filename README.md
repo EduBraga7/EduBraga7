@@ -1,35 +1,41 @@
-### Olá! 👋 Eu sou o Eduardo Braga
+# Olá, eu sou o Eduardo Braga 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário Módulo, unindo tecnologia e inteligência de mercado. Atualmente, estou focado em automação, desenvolvimento web e em obter minha certificação **CPA (ANBIMA)**. 
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário Módulo, com foco em tecnologia aplicada ao mercado financeiro.
 
-Meu grande objetivo é construir soluções práticas que resolvam problemas reais e otimizem a tomada de decisão.
+Construo soluções práticas para automatizar processos, transformar dados em decisões e gerar impacto real.
 
----
+## Sobre mim
 
-### 🛠️ Tecnologias e Ferramentas
+- 🎓 Cursando ADS
+- 🤖 Foco atual em automação e desenvolvimento web
+- 📊 Intersecção entre tecnologia e inteligência de mercado
+- 📚 Em preparação para certificação **CPA (ANBIMA)**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
+## Stack e Ferramentas
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🚀 Projetos em Destaque
+## Projeto em destaque
 
-* 📈 **[Ticker-Tracker](https://github.com/EduBraga7/Ticker-Tracker):** Robô de BI *serverless* em Python que analisa ativos financeiros em tempo real e envia insights estratégicos de Buy & Hold via Telegram usando a IA do Gemini.
+### 📈 [Ticker-Tracker](https://github.com/EduBraga7/Ticker-Tracker)
 
----
+Robô de BI *serverless* em Python que:
 
-### 📬 Vamos nos conectar!
+- monitora ativos financeiros em tempo real
+- aplica análise para estratégia de Buy & Hold
+- envia insights estratégicos via Telegram
+- utiliza IA do Gemini para enriquecer as recomendações
 
-<p>
-  <a href="https://www.linkedin.com/in/ebragaprado" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## Objetivo profissional
+
+Evoluir como desenvolvedor e analista, criando produtos que combinem **automação, dados e finanças** para melhorar a tomada de decisão em cenários reais.
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebragaprado)
