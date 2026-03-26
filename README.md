@@ -32,6 +32,12 @@ Robô de BI *serverless* em Python que:
 - envia insights estratégicos via Telegram
 - utiliza IA do Gemini para enriquecer as recomendações
 
+## Projetos e site
+
+- 🌐 Site pessoal: [edubraga7.github.io](https://edubraga7.github.io)
+- 🏍️ Projeto: [Moto_Tracker](https://github.com/EduBraga7/Moto_Tracker)
+- 🎬 Projeto: [diario-filmes-series](https://github.com/EduBraga7/diario-filmes-series)
+
 ## Objetivo profissional
 
 Evoluir como desenvolvedor e analista, criando produtos que combinem **automação, dados e finanças** para melhorar a tomada de decisão em cenários reais.
