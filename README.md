@@ -57,7 +57,7 @@ Quando não estou buildando ou estudando o mercado:
 ---
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/EduBraga7?template=classic&languages=1&languages.sections=most-used&languages.limit=6&languages.threshold=0%25&config.timezone=America%2FSao_Paulo" alt="Top Langs" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,git,github,vscode" alt="Minhas Tecnologias" />
 </p>
 
 <p align="center">
