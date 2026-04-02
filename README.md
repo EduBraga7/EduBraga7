@@ -57,7 +57,7 @@ Quando não estou buildando ou estudando o mercado:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBraga7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/EduBraga7?template=classic&languages=1&languages.sections=most-used&languages.limit=6&languages.threshold=0%25&config.timezone=America%2FSao_Paulo" alt="Top Langs" />
 </p>
 
 <p align="center">
