@@ -28,17 +28,14 @@ Sou um desenvolvedor focado em transformar dados e lógica de mercado em soluç�
 
 ## 📈 Projetos em Destaque
 
-### [Radar do Aporte](https://edubraga7.github.io/work/radar-do-aporte)
-Minha ferramenta principal de auxílio em decisões de investimentos, unindo lógica financeira com interface limpa.
-
-### [Ticker-Tracker](https://github.com/EduBraga7/Ticker-Tracker)
-Robô de BI *serverless* em Python que monitora ativos, aplica estratégias de *Buy & Hold* e envia insights via Telegram com auxílio da IA do Gemini.
+### [IM Suplementos](https://edubraga7.github.io/work/im-suplementos)
+Landing page profissional desenvolvida para uma loja de suplementos, focada em performance, design responsivo e conversão de vendas.
 
 ### [Odonto Braga](https://edubraga7.github.io/work/odonto-braga)
 Landing page profissional desenvolvida para uma clínica real em Boiçucanga, focada em performance e conversão de leads.
 
-### [CodePay](https://github.com/EduBraga7/CodePay)
-Simulador de portfólio desenvolvido em grupo para a faculdade, focado em UX financeira.
+### [Ticker-Tracker](https://github.com/EduBraga7/Ticker-Tracker)
+Robô de BI *serverless* em Python que monitora ativos, aplica estratégias de *Buy & Hold* e envia insights via Telegram com auxílio da IA do Gemini.
 
 ---
 
@@ -46,7 +43,7 @@ Simulador de portfólio desenvolvido em grupo para a faculdade, focado em UX fin
 
 Quando não estou buildando ou estudando o mercado:
 - 🏋️‍♂️ Estou focado no **bodybuilding** (constância e disciplina).
-- 🎮 No tempo livre: **Elden Ring**, **CS** ou **LoL**.
+- 🎮 No tempo livre: **Elden Ring** ou **CS**.
 - 🌿 Praticante de **minimalismo** e otimização de processos.
 
 ---
@@ -60,5 +57,9 @@ Quando não estou buildando ou estudando o mercado:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduBraga7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBraga7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
+</p>
+
+<p align="center">
+  "Onde a tecnologia encontra o valor real."
 </p>
