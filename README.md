@@ -57,7 +57,7 @@ Quando não estou buildando ou estudando o mercado:
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,git,github,vscode" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode" alt="Minhas Tecnologias" />
 </p>
 
 <p align="center">
