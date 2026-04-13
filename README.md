@@ -28,12 +28,6 @@ Sou um desenvolvedor e entusiasta de **negócios e empreendedorismo**. Meu foco 
 
 ## 📈 Projetos em Destaque
 
-### [IM Suplementos](https://edubraga7.github.io/work/im-suplementos)
-Landing page profissional focada em **estratégia de vendas** e conversão, unindo design responsivo com performance técnica.
-
-### [Odonto Braga](https://edubraga7.github.io/work/odonto-braga)
-Solução web para clínica real, focada em autoridade digital e captação estratégica de leads.
-
 ### [Ticker-Tracker](https://github.com/EduBraga7/Ticker-Tracker)
 Robô de BI *serverless* em Python que aplica estratégias de *Buy & Hold* para otimização de carteiras de investimento.
 
