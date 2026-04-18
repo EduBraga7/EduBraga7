@@ -8,7 +8,7 @@ Sou um desenvolvedor e entusiasta de **negócios e empreendedorismo**. Meu foco 
 
 ## 🚀 No que estou focado agora?
 
-- 📚 **Certificação CPA (ANBIMA):** Preparação intensiva para a prova em **17 de Abril**.
+
 - 🎓 **ADS na Módulo:** Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas.
 - 💼 **Soluções de Negócio:** Desenvolvendo ferramentas que otimizam a tomada de decisão e a rentabilidade, unindo Tech e Business.
 
