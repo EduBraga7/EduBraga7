@@ -60,12 +60,12 @@ Sou um desenvolvedor e entusiasta de **negócios e empreendedorismo**. Meu foco 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduBraga7&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduBraga7&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBraga7&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduBraga7&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=EduBraga7&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Quando não estou buildando ou analisando o mercado:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebragaprado)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512982324784?text=Olá,Eduardo!Vioseuportfólioegostariadeconversarsobreumprojeto.)
-[![Site Pessoal](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edubraga7.github.io)
+[![Site Pessoal](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bragaweb.netlify.app/)
 
 ---
 
