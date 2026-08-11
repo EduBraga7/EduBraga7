@@ -60,12 +60,11 @@ Sou um desenvolvedor e entusiasta de **negócios e empreendedorismo**. Meu foco 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduBraga7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Eduardo's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduBraga7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=EduBraga7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduBraga7&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduBraga7&theme=radical&hide_border=true" alt="Sequência do GitHub" />
 </p>
 
 ---
