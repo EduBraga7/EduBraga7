@@ -57,19 +57,6 @@ Sou um desenvolvedor e entusiasta de **negócios e empreendedorismo**. Meu foco 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/EduBraga7?label=Seguidores&style=for-the-badge&color=7928CA&logo=github" />
-  <img src="https://img.shields.io/github/stars/EduBraga7?label=Stars%20Totais&style=for-the-badge&color=FF0080&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduBraga7&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📊 Além do Código
 
 Quando não estou buildando ou analisando o mercado:
