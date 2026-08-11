@@ -6,7 +6,7 @@ Sou um desenvolvedor e entusiasta de **negócios e empreendedorismo**. Meu foco 
 ---
 
 ## 🚀 No que estou focado agora?
-- 🎓 **ADS na Módulo:** Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas.
+- 🎓 **ADS na Módulo:** Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas.
 - 💼 **Soluções de Negócio:** Desenvolvendo ferramentas e sites que otimizam a tomada de decisão, a presença digital e a rentabilidade de negócios, unindo Tech e Business.
 
 ---
