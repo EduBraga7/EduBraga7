@@ -136,8 +136,11 @@ Construo aplicações completas (SaaS, ERPs e ferramentas financeiras) focadas e
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduBraga7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBraga7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=EduBraga7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=EduBraga7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EduBraga7&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições no GitHub" />
 </p>
 
 ---
