@@ -78,12 +78,12 @@ Desenvolvedor Full Stack & AI Engineer, cursando **Análise e Desenvolvimento de
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduBraga7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats de EduBraga7" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBraga7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages de EduBraga7" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=EduBraga7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats de EduBraga7" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduBraga7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages de EduBraga7" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduBraga7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak de EduBraga7" />
+  <img src="https://streak-stats.demolab.com/?user=EduBraga7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak de EduBraga7" />
 </p>
 
 ---
