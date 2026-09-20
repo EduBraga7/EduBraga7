@@ -38,7 +38,7 @@ Desenvolvedor Full Stack & AI Engineer, cursando **Análise e Desenvolvimento de
 | 💡 **[Lumin Finance](https://github.com/EduBraga7/lumin-finance)** | Gestão financeira inteligente com previsibilidade de fluxo de caixa, relatórios analíticos em tempo real e diagnósticos via IA (Gemini). | `Next.js` `TypeScript` `Gemini AI` `Prisma` | [Live Demo](https://lumin-finance-taupe.vercel.app) • [Repo](https://github.com/EduBraga7/lumin-finance) |
 | 📈 **[FinPulse](https://github.com/EduBraga7/finpulse)** | Financial intelligence & content studio: feeds globais em tempo real, inferência de impacto macro via IA e geração de carrosséis visuais. | `Next.js` `TypeScript` `AI Insights` `Automation` | [Repositório](https://github.com/EduBraga7/finpulse) |
 | 🔥 **[Streakly](https://github.com/EduBraga7/Streakly)** | PWA progressivo para rastreamento de hábitos, consistência e sobriedade, com métricas visuais e botão de socorro em crises. | `React` `TypeScript` `PWA` `Tailwind CSS` | [Live Demo](https://mystreakly.vercel.app/) • [Repo](https://github.com/EduBraga7/Streakly) |
-| 🏢 **[BusinessERP](https://github.com/EduBraga7/businessERP)** | Sistema ERP Multi-Tenant com isolamento granular por empresa, permissões avançadas por cargo (RBAC), controle de estoque e vendas. | `Next.js` `PostgreSQL` `Prisma` `Tailwind CSS` | [Repositório](https://github.com/EduBraga7/businessERP) |
+| 🏥 **[AtendeFlow](https://github.com/EduBraga7/atende-flow)** | Central omnichannel com IA e RAG integrada ao WhatsApp (Baileys) para atendimento automatizado e transbordo humano. | `TypeScript` `WhatsApp Baileys` `RAG` `AI` | [Live Demo](https://atende-flow-production.up.railway.app/) • [Repo](https://github.com/EduBraga7/atende-flow) |
 
 </div>
 
