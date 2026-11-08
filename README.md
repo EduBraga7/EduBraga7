@@ -1,5 +1,5 @@
 # Olá, eu sou o Eduardo Braga 👋🚀
-### **Full Stack Developer, AI Engineer & GameDev | SaaS, Agentes Autônomos & Jogos 3D**
+### **Full Stack Developer, AI Engineer & GameDev | SaaS, Agentes Autônomos & Jogos em Godot**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edubraga7/" target="_blank">
@@ -17,18 +17,26 @@
 
 ## 🎯 Sobre Mim & Visão de Engenharia
 
-Desenvolvedor Full Stack, AI Engineer e Game Developer, cursando **Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário Módulo. Minha atuação une o rigor de arquitetura de software empresarial à velocidade de automações modernas com IA e à excelência gráfica de jogos:
+Desenvolvedor Full Stack, AI Engineer e Game Developer, cursando **Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário Módulo. Meu trabalho une o rigor de arquitetura de software empresarial à velocidade de automações modernas com IA e à construção de jogos autorais:
 
 - 🤖 **Engenharia de IA Generativa & Agentes:** Arquiteturas RAG, integração de LLMs (Google Gemini), visão computacional em tempo real e automações omnichannel via WhatsApp.
 - 🚀 **SaaS & Aplicações Modernas:** Ecossistema **Next.js 16 (App Router / Turbopack)**, **React 19**, **Tailwind CSS v4**, bancos serverless (Neon/PostgreSQL) e tipagem estrita fim a fim.
-- 🎮 **Game Development & Pipeline 3D:** Jogos de alta performance desenvolvidos em **Unity 6 (URP)** e **Godot 4.7**, com física *zero-allocation*, pooling de entidades, simulação econômica em tempo real e automação de esteira 3D procedural no **Blender** via **Model Context Protocol (MCP)**.
-- 💼 **Soluções Comerciais & Alta Performance:** Mais de 15 aplicações entregues para empresas locais e clientes, com foco rigoroso em SEO técnico, acessibilidade e notas máximas no **Google Core Web Vitals (Lighthouse 95+)**.
+- 🎮 **Game Development Autoral:** Criação de jogos completos em **Godot 4.7** com GDScript tipado, simulações econômicas em tempo real, motores preditivos de farm offline e arte vetorial gerada por código.
+- 💼 **Soluções Comerciais com Foco em Conversão:** Desenvolvimento de landing pages e plataformas digitais para negócios locais com notas máximas no **Google Lighthouse**, otimização para SEO e fluxos de agendamento direto.
 
 ---
 
 ## 🏆 Projetos em Destaque
 
 <div align="center">
+
+### 🎮 Game Development (Godot 4.7)
+
+| Jogo | Gênero / Proposta | Tecnologias Chave | Acesso |
+| :--- | :--- | :--- | :---: |
+| 🏨 **[Monstel](https://github.com/EduBraga7/Monstel)** | Jogo mobile/desktop de simulação e gestão de hotel de monstros, com simulação viva de torre, economia em tempo real e arte vetorial. | `Godot 4.7` `GDScript 2.0` `Simulação` `Mobile Ready` | [Repositório](https://github.com/EduBraga7/Monstel) |
+| 🩴 **[Chinelada: Heróis do Lar](https://github.com/EduBraga7/chinelada)** | Idle RPG brasileiro com motor preditivo de farm offline, simulação de economia, humor do cotidiano e arte vetorial procedural. | `Godot 4.7` `GDScript` `Idle RPG` `Offline Sim` | [Repositório](https://github.com/EduBraga7/chinelada) |
+| 🇧🇷 **[Capivara Caos](https://github.com/EduBraga7/capivara-caos)** | Survivors-like caótico brasileiro com arte vetorial, hordas frenéticas e progressão ágil de habilidades. | `Godot 4.7` `GDScript` `2D Engine` | [Repositório](https://github.com/EduBraga7/capivara-caos) |
 
 ### 🤖 Engenharia de IA & Plataformas SaaS
 
@@ -41,27 +49,17 @@ Desenvolvedor Full Stack, AI Engineer e Game Developer, cursando **Análise e De
 | ⚡ **[SocialSpark](https://github.com/EduBraga7/SocialSpark)** | SaaS com IA que analisa perfis do Instagram via scraping e infere estratégia editorial automatizada. | `Next.js` `TypeScript` `Apify` `AI Insights` | [Repositório](https://github.com/EduBraga7/SocialSpark) |
 | 🔥 **[Streakly](https://github.com/EduBraga7/Streakly)** | PWA progressivo para rastreamento de hábitos, consistência e sobriedade, com métricas visuais. | `React` `TypeScript` `PWA` `Tailwind CSS` | [Live](https://mystreakly.vercel.app/) • [Repo](https://github.com/EduBraga7/Streakly) |
 
-### 🎮 Game Development & Simulação 3D
-
-| Jogo | Gênero / Proposta | Motor & Tecnologias | Acesso |
-| :--- | :--- | :--- | :---: |
-| 🏨 **[Monstel](https://github.com/EduBraga7/Monstel)** | Jogo mobile/desktop de simulação e gestão econômica de hotel de monstros, com simulação viva de torre e arte vetorial procedural. | `Godot 4.7` `GDScript 2.0` `Simulação` `Mobile Ready` | [Repositório](https://github.com/EduBraga7/Monstel) |
-| 🌌 **[Vortex](https://github.com/EduBraga7/Vortex)** | Top-Down Bullet Heaven com armas evolutivas, física *zero-allocation* e esteira 3D procedural no Blender via MCP. | `Unity 6` `C#` `URP` `Blender MCP` | [Repositório](https://github.com/EduBraga7/Vortex) |
-| 🏝️ **[Tiny Island](https://github.com/EduBraga7/TinyIslandGame)** | Micro-aventura 3D isométrica acolhedora (*Cozy Game*) com áudio procedural em tempo real. | `Unity 6` `C#` `Blender 5.2` `Procedural Audio` | [Repositório](https://github.com/EduBraga7/TinyIslandGame) |
-| 🇧🇷 **[Capivara Caos](https://github.com/EduBraga7/capivara-caos)** | Survivors-like brasileiro caótico com arte vetorial e progressão ágil de habilidades. | `Godot 4` `GDScript` `2D Engine` | [Repositório](https://github.com/EduBraga7/capivara-caos) |
-
 </div>
 
 ---
 
-## 💼 Soluções Comerciais & Clientes Atendidos
+## 💼 Soluções Comerciais Entregues
 
-Além de produtos autorais, desenvolvo e entrego infraestrutura digital de alta conversão para empresas e profissionais autônomos:
+Aplicações e plataformas desenvolvidas para empresas e profissionais autônomos, focadas em captação de clientes, conversão e alta performance:
 
-* 🦷 **Clínica Odonto Braga:** Landing page institucional premium com agendamento direto, integração WhatsApp e score 98+ no Lighthouse.
-* ❄️ **Said Clima:** Plataforma de captação de leads e serviços de climatização e refrigeração técnica.
-* 🎪 **XK Eventos:** Vitrine digital para entretenimento, locação de estruturas e gestão de eventos.
-* 📦 **Soluções Locais & B2B:** Mais de 12 portais desenvolvidos para estética, gastronomia, fretamento e serviços especializados.
+* 🦷 **Clínica Odonto Braga:** Landing page institucional premium com agendamento direto via WhatsApp, estrutura de alta conversão e score 98+ no Google Lighthouse.
+* ❄️ **Said Clima:** Portal de captação de clientes e apresentação de serviços de climatização e refrigeração técnica.
+* 🎪 **XK Eventos:** Vitrine digital para locação de brinquedos, tendas e infraestrutura completa para eventos.
 
 ---
 
@@ -70,7 +68,7 @@ Além de produtos autorais, desenvolvo e entrego infraestrutura digital de alta 
 ### 💻 Linguagens & Core
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -81,6 +79,12 @@ Além de produtos autorais, desenvolvo e entrego infraestrutura digital de alta 
 ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA_Ready-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
+### 🎮 Game Development (Godot Engine)
+![Godot 4.7](https://img.shields.io/badge/Godot%204.7-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![GDScript 2.0](https://img.shields.io/badge/GDScript%202.0-blue?style=for-the-badge)
+![2D Game Engine](https://img.shields.io/badge/2D%20Engine-Vector%20Art-green?style=for-the-badge)
+![Simulation Architecture](https://img.shields.io/badge/Architecture-Econ%20Simulation-purple?style=for-the-badge)
+
 ### ⚙️ Backend, Bancos & Infraestrutura
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -88,13 +92,6 @@ Além de produtos autorais, desenvolvo e entrego infraestrutura digital de alta 
 ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🎮 Game Development & 3D Pipeline
-![Unity 6](https://img.shields.io/badge/Unity%206-black?style=for-the-badge&logo=unity)
-![Godot 4](https://img.shields.io/badge/Godot%204-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Render Pipeline URP](https://img.shields.io/badge/Render%20Pipeline-URP-276DC3?style=for-the-badge)
-![Blender 5.2](https://img.shields.io/badge/Blender%205.2-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![MCP Pipeline](https://img.shields.io/badge/Pipeline-MCP%20%2B%20AI-purple?style=for-the-badge)
 
 ### 🧠 Inteligência Artificial & Agentes
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
