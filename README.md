@@ -1,5 +1,5 @@
 # Olá, eu sou o Eduardo Braga 👋🚀
-### **AI-Native Builder, Product Developer & GameDev | SaaS, Agentes Inteligentes & Jogos em Godot**
+### **AI-Native Builder, Product Developer & GameDev | SaaS, Agentes Inteligentes & Jogos 2D/3D em Godot**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edubraga7/" target="_blank">
@@ -23,7 +23,7 @@ Minha mentalidade é simples: **software existe para resolver problemas reais e 
 
 - 🤖 **Orquestração de IA & Agentes:** Utilizo LLMs e agentes autônomos de última geração como esteira aceleradora para planejar, gerar, debugar e iterar software de alta complexidade em tempo recorde.
 - ⚡ **Entrega Fim a Fim (End-to-End):** Da ideia no papel à infraestrutura rodando — configuração de bancos de dados serverless (Neon/PostgreSQL), containers (Railway), esteiras web (Vercel) e builds mobile de jogos (APKs Android).
-- 🎮 **GameDev Autoral e Funcional:** Criação de jogos completos em **Godot 4.7** com foco em economia viva, simulações offline e arte vetorial gerada por código.
+- 🎮 **GameDev Autoral e Funcional:** Criação de jogos completos em **Godot 4.7** — de RTS 3D com pipeline procedural (Blender + shaders GLSL) a simulações econômicas e arte vetorial gerada por código.
 - 💼 **Pragmatismo Comercial:** Desenvolvimento de aplicações reais para empresas e profissionais autônomos, focando em conversão de clientes, agilidade e notas máximas no **Google Lighthouse**.
 
 ---
@@ -34,8 +34,17 @@ Minha mentalidade é simples: **software existe para resolver problemas reais e 
 
 ### 🎮 Game Development (Godot 4.7)
 
+<a href="https://github.com/EduBraga7/coroa-de-ferro-rts">
+  <img src="https://raw.githubusercontent.com/EduBraga7/coroa-de-ferro-rts/main/docs/media/gameplay_demo.gif" alt="Coroa de Ferro: Crônicas da Fronteira — gameplay" width="720"/>
+</a>
+
+<sub><b>👑 Coroa de Ferro: Crônicas da Fronteira</b> — RTS 3D medieval com pipeline 100% procedural, rodando a 90+ FPS em GPU de entrada.</sub>
+
+<br/><br/>
+
 | Jogo | Proposta & Mecânicas | Stack & Motor | Acesso |
 | :--- | :--- | :--- | :---: |
+| 👑 **[Coroa de Ferro: Crônicas da Fronteira](https://github.com/EduBraga7/coroa-de-ferro-rts)** | RTS 3D medieval base-builder: modelos, rigs, shaders GLSL, UI e 51 SFX gerados 100% por código; navegação A* + steering, névoa de guerra analítica, formações táticas e suíte E2E headless. | `Godot 4.7` `Vulkan Mobile` `Blender 5.2` `GLSL` `Python` | [Repositório](https://github.com/EduBraga7/coroa-de-ferro-rts) |
 | 🏨 **[Monstel](https://github.com/EduBraga7/Monstel)** | Tycoon mobile/desktop: simulação viva de hotel de monstros, automação de elevadores, economia em tempo real e arte vetorial. | `Godot 4.7` `GDScript 2.0` `Simulação` `Mobile Ready` | [Repositório](https://github.com/EduBraga7/Monstel) |
 | 🩴 **[Chinelada: Heróis do Lar](https://github.com/EduBraga7/chinelada)** | Idle RPG com humor brasileiro, motor preditivo de farm offline, simulação de progressão econômica e arte procedural. | `Godot 4.7` `GDScript` `Idle RPG` `Offline Sim` | [Repositório](https://github.com/EduBraga7/chinelada) |
 | 🇧🇷 **[Capivara Caos](https://github.com/EduBraga7/capivara-caos)** | Survivors-like caótico brasileiro com arte vetorial, hordas frenéticas e progressão ágil de habilidades. | `Godot 4.7` `GDScript` `2D Engine` | [Repositório](https://github.com/EduBraga7/capivara-caos) |
@@ -86,6 +95,9 @@ Aplicações e plataformas desenvolvidas para empresas e profissionais autônomo
 ![GDScript 2.0](https://img.shields.io/badge/GDScript%202.0-blue?style=for-the-badge)
 ![2D Engine](https://img.shields.io/badge/2D%20Engine-Vector%20Art-green?style=for-the-badge)
 ![Simulation Architecture](https://img.shields.io/badge/Architecture-Econ%20Simulation-purple?style=for-the-badge)
+![3D RTS](https://img.shields.io/badge/3D-RTS%20%26%20Vulkan-478CBF?style=for-the-badge&logo=vulkan&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-Procedural%203D-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![GLSL Shaders](https://img.shields.io/badge/GLSL-Custom%20Shaders-1F2937?style=for-the-badge)
 
 ### ⚙️ Backend, Bancos & Deploy
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
